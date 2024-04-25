@@ -25,7 +25,8 @@ function Technologies() {
             <ListTitle>Front-End</ListTitle>
             <ListParagraph>
               Experience with <br />
-              React.js
+              React.js, Javascript, Typescript, Redux, Next.js, TailwindCSS,
+              Chakra UI
             </ListParagraph>
           </ListContainer>
         </ListItem>
@@ -36,7 +37,7 @@ function Technologies() {
             <ListTitle>Back-End</ListTitle>
             <ListParagraph>
               Experience with <br />
-              Node and Databases
+              Node.js, Express, MySQL, MongoDB, Prisma
             </ListParagraph>
           </ListContainer>
         </ListItem>

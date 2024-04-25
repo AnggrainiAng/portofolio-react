@@ -30,19 +30,19 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Unichat",
+    title: "Dev Overflow",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: "/images/4.jpg",
-    tags: ["React", "ChatEngine", "Firebase"],
-    source: "https://google.com",
-    visit: "https://google.com",
+      "Dev Overflow: Your go-to platform for developer Q&A, knowledge sharing, and tech discussions.",
+    image: "/images/8.png",
+    tags: ["Typescript", "React"],
+    source: "https://github.com/AnggrainiAng/stack_overflow_nextjs13",
+    visit: "https://stack-overflow-nextjs13-lake-zeta.vercel.app/",
     id: 3,
   },
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
+  { year: 2023, text: "Founded" },
   { year: 2018, text: "Worked as a freelance developer" },
   { year: 2019, text: "Founded JavaScript Mastery" },
   { year: 2020, text: "Shared my projects with the world" },
