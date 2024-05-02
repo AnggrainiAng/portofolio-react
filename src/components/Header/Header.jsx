@@ -39,7 +39,7 @@ function Header() {
           </a>
         </li>
         <li style={{ padding: "0.5rem" }}>
-          <a href="#about" style={{ textDecoration: "none" }}>
+          <a href="#aboutme" style={{ textDecoration: "none" }}>
             <NavLink>About</NavLink>
           </a>
         </li>

@@ -4,7 +4,7 @@ import { LeftSection } from "./HeroStyles";
 
 function Hero() {
   return (
-    <Section row nopadding>
+    <Section row nopadding id="aboutme">
       <LeftSection>
         <SectionTitle main center>
           Welcome to <br />
@@ -17,7 +17,9 @@ function Hero() {
           robust, scalable applications. Explore my projects to see how I tackle
           challenges and bring value to every endeavor`}
         </SectionText>
-        <Button onClick={() => (window.location = "https://google.com")}>
+        <Button
+          onClick={() => (window.location = "https://github.com/AnggrainiAng")}
+        >
           Learn More
         </Button>
       </LeftSection>

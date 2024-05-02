@@ -37,7 +37,7 @@ function Technologies() {
             <ListTitle>Back-End</ListTitle>
             <ListParagraph>
               Experience with <br />
-              Node.js, Express, MySQL, MongoDB, Prisma
+              Node.js, Express, MySQL, MongoDB, Prisma, Next.js
             </ListParagraph>
           </ListContainer>
         </ListItem>

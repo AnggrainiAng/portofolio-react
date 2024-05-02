@@ -1,22 +1,22 @@
 export const projects = [
   {
-    title: "Twittr App",
+    title: "Dev Overflow",
     description:
-      "Twittr is a dynamic social media platform built with React, Tailwind CSS, JSON Server, React Router, and Redux. It allows users to create, read, update, delete tweets, also allows users to express their feelings alongside their tweets.",
-    image: "/images/5.png",
-    tags: ["React", "JSON Server", "Redux"],
-    source: "https://github.com/AnggrainiAng/twittr-app.git",
-    visit: "https://github.com/AnggrainiAng/twittr-app.git",
+      "Dev Overflow: Your go-to platform for developer Q&A, knowledge sharing, and tech discussions.",
+    image: "/images/8.png",
+    tags: ["Next.js", "Typescript"],
+    visit: "https://github.com/AnggrainiAng/stack_overflow_nextjs13",
+    source:
+      "https://stack-overflow-nextjs13-8xmcie9cd-anggrainiangs-projects.vercel.app/",
     id: 0,
   },
   {
-    title: "TravelEase Blog",
-    description:
-      "Travel Ease is a dynamic blog built using Next.js, Flowbite Tailwind, and Contentful",
-    image: "/images/6.png",
-    tags: ["Nextjs", "Contenful"],
-    source: "https://github.com/AnggrainiAng/contentful-nextjs-blog",
-    visit: "https://github.com/AnggrainiAng/contentful-nextjs-blog",
+    title: "•	Uptown’s Barbershop",
+    description: "This is a company profile website, build with Next.js. ",
+    image: "/images/9.png",
+    tags: ["Next.js", "Javascript"],
+    visit: "https://github.com/AnggrainiAng/companyProfile",
+    source: "https://anggi-company-profile.vercel.app/",
     id: 1,
   },
   {
@@ -30,14 +30,24 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Dev Overflow",
+    title: "Twittr App",
     description:
-      "Dev Overflow: Your go-to platform for developer Q&A, knowledge sharing, and tech discussions.",
-    image: "/images/8.png",
-    tags: ["Typescript", "React"],
-    source: "https://github.com/AnggrainiAng/stack_overflow_nextjs13",
-    visit: "https://stack-overflow-nextjs13-lake-zeta.vercel.app/",
+      "Twittr is a dynamic social media platform built with React, Tailwind CSS, JSON Server, React Router, and Redux. It allows users to create, read, update, delete tweets, also allows users to express their feelings alongside their tweets.",
+    image: "/images/5.png",
+    tags: ["React", "JSON Server", "Redux"],
+    source: "https://github.com/AnggrainiAng/twittr-app.git",
+    visit: "https://github.com/AnggrainiAng/twittr-app.git",
     id: 3,
+  },
+  {
+    title: "TravelEase Blog",
+    description:
+      "Travel Ease is a dynamic blog built using Next.js, Flowbite Tailwind, and Contentful",
+    image: "/images/6.png",
+    tags: ["Nextjs", "Contenful"],
+    source: "https://github.com/AnggrainiAng/contentful-nextjs-blog",
+    visit: "https://github.com/AnggrainiAng/contentful-nextjs-blog",
+    id: 4,
   },
 ];
 
